@@ -49,7 +49,7 @@ The project aims to:
 📦 Timetable-Scheduling-Genetic-Algorithm
 │
 ├── genetic_algorithm.ipynb # Jupyter Notebook with GA implementation
-├── AI Course Project - Timetable Scheduling.pdf # Problem description
+├── Timetable Scheduling.pdf # Problem description
 └── README.md
 
 ---
